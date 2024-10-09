@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Undergraduate B.Tech",
+    "n": "Bachelor of Technology Programs",
+    "detail": "The Programs of study emphasize strong conceptual understanding and practical skills in their respective areas of specialization. ",
+    "image": "./student2.jpg"
+  },
+  {
+    "name": "BBA",
+    "n": "JBS BBA Program",
+    "detail": "The 4 years full time BBA curriculum is imaginative and is comprised of creative combinations of disciplines of study.",
+    "image": "./jbs.jpg"
+  },
+  {
+    "name": "INTEGRATED B.TECH-M.TECH",
+    "n": "BT, CSE, ECE",
+    "detail": "The integrated B. Tech + M. Tech course offers a higher level of specialization, advanced courses, and research opportunities to students.",
+    "image": "./faculty.jpg"
+  },
+  {
+    "name": "DIPLOMA COURSE",
+    "n": "CS & IT , Microelectronic ",
+    "detail": "short-term courses focusing on vocational training and skill development.",
+    "image": "./campus2.jpg"
+  },
+  {
+    "name": "MBA",
+    "n": "Master of business administration",
+    "detail": "A graduate degree that provides theoretical and practical training for business or investment management.",
+    "image": "./audi.webp"
+  },
+  {
+    "name": "POST GRADUATE PROGRAM",
+    "n": "Mtech,MBA,MCA",
+    "detail": "The objective of the M. Tech Programs is to prepare professionals with advanced knowledge of the respective field who can serve industry,",
+    "image": "./student2.jpg"
+  }
+]
